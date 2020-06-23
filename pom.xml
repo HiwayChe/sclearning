@@ -62,5 +62,6 @@
     <modules>
         <module>eureka</module>
         <module>provider</module>
+        <module>consumer</module>
     </modules>
 </project>
